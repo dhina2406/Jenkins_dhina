@@ -1,4 +1,5 @@
 pipeline{
+ any angent
      stages{
          stage('build'){
             steps{
